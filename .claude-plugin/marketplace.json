@@ -1,0 +1,8 @@
+{
+  "name": "cognifai",
+  "metadata": { "description": "CognifAI plugin for Claude" },
+  "owner": { "name": "CognifAI", "email": "cognifaiapp.pkm@gmail.com" },
+  "plugins": [
+    { "name": "cognifai", "source": "./", "description": "Search, capture, and update ideas in your CognifAI knowledge base from Claude." }
+  ]
+}

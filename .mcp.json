@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cognifai": {
+      "type": "http",
+      "url": "https://cognifai.app/api/mcp"
+    }
+  }
+}
