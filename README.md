@@ -4,7 +4,7 @@ Connect Claude to your [CognifAI](https://cognifai.app) knowledge base. Search, 
 
 ## Requirements
 
-- A CognifAI **Pro or Pro+** account (the MCP server is not available on the free tier).
+- A CognifAI account. The **Free** plan works: it can own up to 2 realms with up to 20 ideas per realm, and the MCP server allows 30 requests per minute. **Pro** removes the realm and idea limits and raises the MCP limit to 120 requests per minute.
 
 ## Install
 
