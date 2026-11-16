@@ -1,5 +1,6 @@
 {
   "name": "cognifai",
+  "displayName": "CognifAI",
   "version": "0.1.0",
   "description": "Search, capture, and update ideas in your CognifAI knowledge base from Claude.",
   "author": {
