@@ -35,7 +35,9 @@ The plugin accesses only realms your CognifAI account can access, and creating o
 
 ## Privacy
 
-This plugin contains no code that runs on your machine. It only configures a connection to the CognifAI MCP server at `https://cognifai.app/api/mcp`. Content you ask Claude to read from or write to your realms is exchanged with that server and handled under the CognifAI privacy policy: https://cognifai.app/privacy. The plugin sends no data to any other destination.
+Privacy policy: [https://cognifai.app/privacy](https://cognifai.app/privacy)
+
+This plugin contains no code that runs on your machine. It only configures a connection to the CognifAI MCP server. Content you ask Claude to read from or write to your realms is exchanged with that server and handled under the CognifAI privacy policy above. The plugin sends no data to any other destination.
 
 ## License
 

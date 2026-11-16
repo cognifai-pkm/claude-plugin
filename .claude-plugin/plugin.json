@@ -7,6 +7,13 @@
     "email": "cognifaiapp.pkm@gmail.com"
   },
   "homepage": "https://cognifai.app/mcp",
+  "privacyPolicyUrl": "https://cognifai.app/privacy",
   "license": "MIT",
-  "keywords": ["knowledge-management", "notes", "ideas", "second-brain", "mcp"]
+  "keywords": [
+    "knowledge-management",
+    "notes",
+    "ideas",
+    "second-brain",
+    "mcp"
+  ]
 }
