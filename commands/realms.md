@@ -1,6 +1,5 @@
 ---
 description: List your CognifAI realms and your role in each
-allowed-tools: mcp__plugin_cognifai_cognifai__list_realms
 ---
 
 Call `list_realms` and show the result as a table with the columns Name, Role, Visibility (public/private), and Realm ID. If there are no realms, say so and suggest creating one at https://my.cognifai.app/app.

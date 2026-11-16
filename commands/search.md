@@ -1,7 +1,6 @@
 ---
 description: Search CognifAI ideas by title across all realms or one realm
 argument-hint: <query> [realm name]
-allowed-tools: mcp__plugin_cognifai_cognifai__search_ideas, mcp__plugin_cognifai_cognifai__list_realms, mcp__plugin_cognifai_cognifai__get_idea
 ---
 
 Search CognifAI for: $ARGUMENTS

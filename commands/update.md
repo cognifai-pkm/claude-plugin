@@ -1,7 +1,6 @@
 ---
 description: Edit the title, content, or tags of an existing CognifAI idea
 argument-hint: <idea title or ID> <what to change>
-allowed-tools: mcp__plugin_cognifai_cognifai__update_idea, mcp__plugin_cognifai_cognifai__search_ideas, mcp__plugin_cognifai_cognifai__get_idea, mcp__plugin_cognifai_cognifai__list_realms
 ---
 
 Update a CognifAI idea: $ARGUMENTS

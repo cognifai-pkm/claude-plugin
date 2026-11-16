@@ -1,7 +1,6 @@
 ---
 description: Summarize a CognifAI realm into themes, open threads, and next steps
 argument-hint: <realm name>
-allowed-tools: mcp__plugin_cognifai_cognifai__list_realms, mcp__plugin_cognifai_cognifai__get_realm_ideas, mcp__plugin_cognifai_cognifai__get_idea
 ---
 
 Produce a briefing for the CognifAI realm: $ARGUMENTS

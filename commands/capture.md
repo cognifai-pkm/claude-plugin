@@ -1,7 +1,6 @@
 ---
 description: Save a new idea to a CognifAI realm
 argument-hint: <idea text or title> [realm name]
-allowed-tools: mcp__plugin_cognifai_cognifai__create_idea, mcp__plugin_cognifai_cognifai__list_realms
 ---
 
 Capture this in CognifAI: $ARGUMENTS
