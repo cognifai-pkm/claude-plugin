@@ -7,8 +7,10 @@
     "name": "CognifAI",
     "email": "cognifaiapp.pkm@gmail.com"
   },
-  "homepage": "https://cognifai.app/mcp",
+  "homepage": "https://cognifai.app",
+  "documentationUrl": "https://cognifai.app/mcp",
   "privacyPolicyUrl": "https://cognifai.app/privacy",
+  "termsOfServiceUrl": "https://cognifai.app/terms",
   "license": "MIT",
   "keywords": [
     "knowledge-management",
